@@ -50,16 +50,17 @@
 
 ---
 
-#### My social life
+#### My community life
 
 | Site        | Description           |   |
 | ------------- |:-------------| :-----:|
-| [GitHub](https://github.com/pizaranha)       | My shy social account            |  |
-| [StackOverflow](https://stackoverflow.com/users/8328361/pizaranha)       | My humble social account            |  |
+| [Twitter](https://twitter.com/pizaranha)       | I look for wisdom here           |  |
+| [GitHub](https://github.com/pizaranha)       | I do my best here            |  |
+| [StackOverflow](https://stackoverflow.com/users/8328361/pizaranha)       | I try to share my humble experience here            |  |
 
 ---
 
-#### Remarkable sites
+#### Remarkable sites I recommend
 
 📗 Learning | 👨‍🏫 Dev Tools | 
 
