@@ -22,30 +22,30 @@
 
 #### 2022.02 / Strategies to Learn Online Effectively by [Anahí Salgado](https://twitter.com/anncode)
 
-✅ Study notes techniques
-✅ Types of learning
-✅ Effective study habits
-✅ Types of students
+- [x] Study notes techniques
+- [x] Types of learning
+- [x] Effective study habits
+- [x] Types of students
      
 #### 2022.02 / AWS Cloud fundamentals by [Mauro Parra Miranda](https://github.com/mauropm)
 
-✅ Identify services for specific infrastructure needs
-✅ Use AWS Database Migration Service
-✅ Migrate your web applications to the Amazon cloud
+- [x] Identify services for specific infrastructure needs
+- [x] Use AWS Database Migration Service
+- [x] Migrate your web applications to the Amazon cloud
 
 #### 2022.02 / Effective Time Management by [Beatriz Ibañez](https://twitter.com/beatrixip)
 
-✅ Time management concepts
-✅ Time management techniques
-✅ Time management strategies
-✅ Tasks prioritizations
+- [x] Time management concepts
+- [x] Time management techniques
+- [x] Time management strategies
+- [x] Tasks prioritizations
 
 ---
 
 #### My projects
 
 | Site        | Description           | Category  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| -----:|
 | [clubz](https://clubz.co)       | Community activator            | ⭐ |
 
 ---
