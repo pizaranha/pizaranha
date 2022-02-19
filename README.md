@@ -42,11 +42,20 @@
 
 ---
 
-#### My projects
+#### My current projects
 
 | Site        | Description           | Category  |
-| ------------- |:-------------| -----:|
+| ------------- |:-------------| :-----:|
 | [clubz](https://clubz.co)       | Community activator            | ⭐ |
+
+---
+
+#### My social life
+
+| Site        | Description           |   |
+| ------------- |:-------------| :-----:|
+| [GitHub](https://github.com/pizaranha)       | My shy social account            |  |
+| [StackOverflow](https://stackoverflow.com/users/8328361/pizaranha)       | My humble social account            |  |
 
 ---
 
@@ -55,7 +64,7 @@
 📗 Learning | 👨‍🏫 Dev Tools | 
 
 | Site                                     | Description                                          | Category  |
-| :-------------                           |:-------------                                        | :-----|
+| :-------------                           |:-------------                                        | :-----:|
 | [shell.how](https://shell.how)           | Explain shell commands                               | 📗 |
 | [daily.dev](https://daily.dev)           | News for developers                                  | 📗 |
 | [carbon.now](https://carbon.now.sh)      | Create images of your source code                    | 👨‍🏫 |
