@@ -70,3 +70,4 @@
 | [daily.dev](https://daily.dev)           | News for developers                                  | 📗 |
 | [carbon.now](https://carbon.now.sh)      | Create images of your source code                    | 👨‍🏫 |
 | [bundlephobia](https://bundlephobia.com) | find the cost of adding a npm package to your bundle | 👨‍🏫 |
+| [badgen](https://badgen.net/)            | Fast badge generating service                        | 👨‍🏫 |
