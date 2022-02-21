@@ -66,19 +66,20 @@
 
 #### My current projects
 
-| Site        | Description           | Category  |
-| ------------- |:-------------| :-----:|
-| [clubz](https://clubz.co)       | Community activator            | ⭐ |
+| Site                            | Description             | Tech  |
+| -------------                   |:-------------           | :-----:|
+| [clubz](https://clubz.co)       | Community activator     | ![](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)|
 
 ---
 
 #### My community life
 
-| Site        | Description           |   |
-| ------------- |:-------------| :-----:|
-| [Twitter](https://twitter.com/pizaranha)       | I look for wisdom here           |  |
-| [GitHub](https://github.com/pizaranha)       | I do my best here            |  |
+| Site                                                                     | Description                                         |   |
+| -------------                                                            |:-------------                                       | :-----:|
+| [Twitter](https://twitter.com/pizaranha)                                 | I look for wisdom here                              |  |
+| [GitHub](https://github.com/pizaranha)                                   | I do my best here                                   |  |
 | [StackOverflow](https://stackoverflow.com/users/8328361/pizaranha)       | I try to share my humble experience here            |  |
+| [Codepen](https://codepen.io/pizaranha)                                  | I explore new things here                           |  |
 
 ---
 
