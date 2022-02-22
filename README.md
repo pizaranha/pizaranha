@@ -10,44 +10,6 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 
 ---
 
-### This is my certified learning path
-
-#### 2022.02 / Basic Computing by [Ricardo Celis](https://twitter.com/celismx)
-
-- [x] Basics of security
-- [x] Windows 10
-- [x] Computer basics
-- [x] Operating systems
-
-#### 2022.02 / Strategies to Learn Online Effectively by [Anahí Salgado](https://twitter.com/anncode)
-
-- [x] Study notes techniques
-- [x] Types of learning
-- [x] Effective study habits
-- [x] Types of students
-     
-#### 2022.02 / AWS Cloud fundamentals by [Mauro Parra Miranda](https://github.com/mauropm)
-
-- [x] Identify services for specific infrastructure needs
-- [x] Use AWS Database Migration Service
-- [x] Migrate your web applications to the Amazon cloud
-
-#### 2022.02 / Effective Time Management by [Beatriz Ibañez](https://twitter.com/beatrixip)
-
-- [x] Time management concepts
-- [x] Time management techniques
-- [x] Time management strategies
-- [x] Tasks prioritizations
-
-#### 2022.02 / Personal Finances by [Juan Camilo González](https://twitter.com/FiguroLatam)
-
-- [x] Define the financial plan to follow
-- [x] Build your dashboard
-- [x] Keep track of my accounts
-- [x] Set financial goals
-
----
-
 #### My current projects
 
 | Site                            | Description             | Tech  |
@@ -79,7 +41,9 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 | [bundlephobia](https://bundlephobia.com) | find the cost of adding a npm package to your bundle | 👨‍🏫 |
 | [badgen](https://badgen.net/)            | Fast badge generating service                        | 👨‍🏫 |
 
-### Myself described with badges 🛡️
+---
+
+#### Myself described with badges 🛡️
 
 > Languages/technologies
 
@@ -137,3 +101,43 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+---
+
+### This is my certified learning path
+
+#### 2022.02 / Basic Computing by [Ricardo Celis](https://twitter.com/celismx)
+
+- [x] Basics of security
+- [x] Windows 10
+- [x] Computer basics
+- [x] Operating systems
+
+#### 2022.02 / Strategies to Learn Online Effectively by [Anahí Salgado](https://twitter.com/anncode)
+
+- [x] Study notes techniques
+- [x] Types of learning
+- [x] Effective study habits
+- [x] Types of students
+     
+#### 2022.02 / AWS Cloud fundamentals by [Mauro Parra Miranda](https://github.com/mauropm)
+
+- [x] Identify services for specific infrastructure needs
+- [x] Use AWS Database Migration Service
+- [x] Migrate your web applications to the Amazon cloud
+
+#### 2022.02 / Effective Time Management by [Beatriz Ibañez](https://twitter.com/beatrixip)
+
+- [x] Time management concepts
+- [x] Time management techniques
+- [x] Time management strategies
+- [x] Tasks prioritizations
+
+#### 2022.02 / Personal Finances by [Juan Camilo González](https://twitter.com/FiguroLatam)
+
+- [x] Define the financial plan to follow
+- [x] Build your dashboard
+- [x] Keep track of my accounts
+- [x] Set financial goals
+
+---
