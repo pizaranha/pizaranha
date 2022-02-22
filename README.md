@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Pizaranha, a family guy who enjoy making great things that helps people. When I was born **All Night Long (All Night)** was in the Top #5 songs in the USA, you can imagine how much maturity 😋🦖. BTW, here you will find some clues to know about me 👇.
+I am Pizaranha, a family guy who enjoy making great things that helps people. When I was born **All Night Long (All Night)** was in the Top #5 songs in the USA, you can imagine how much maturity 😋🦖. BTW, here you will find some clues to know more about me 👇.
 
 - 🔭 I’m currently working on clubz.co
 - 🌱 I’m currently learning Personal Finances 
