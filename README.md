@@ -1,12 +1,11 @@
 ### Hi there 👋
 
+I am Pizaranha, a family guy who enjoy making great things that helps people. When I born **All Night Long (All Night)** was in the Top #5 songs in the USA, you can imagine how much maturity 😋🦖. BTW, here you will find some clues to know about me 👇.
+
 - 🔭 I’m currently working on clubz.co
-- 🌱 I’m currently learning AWS cloud fundamentals
-- 👯 I’m looking to collaborate on communities
-- 🤔 I’m looking for help with clubz.co
-- 💬 Ask me about how to build a great startup
-- 📫 How to reach me: twitter, gmail
-- 😄 Pronouns: specimen
+- 🌱 I’m currently learning Personal Finances 
+- 👯 I’m looking to help communities to be active
+- 💬 Ask me about how to build a great startup (we will be both with the same question)
 - ⚡ Fun fact: you will laugh with the origin of my nickname.
 
 ---
