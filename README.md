@@ -14,7 +14,7 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 
 | Site                            | Description             | Tech  |
 | -------------                   |:-------------           | :-----:|
-| [clubz.co](https://clubz.co)    | Community activator     | ![](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)|
+| [clubz.co](https://clubz.co)    | Community activator     | ![](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)|
 
 ---
 
@@ -128,5 +128,21 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 - [x] Build your dashboard
 - [x] Keep track of my accounts
 - [x] Set financial goals
+
+#### 2016.11 / Mobile App Development Basics
+
+- [x] Android apps with Kotlin (Android Studio)
+- [x] App development with C# (Xamarin)
+- [x] Hybrid mobile app development with Ionic
+- [x] PWA development with Angular 2
+- [x] iOS apps with Swift (Xcode)
+
+#### 2011.03 / Mechanical Engineer by [UdeA](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-mecanica)
+
+- [x] Prototype Design
+- [x] Thermal systems design
+- [x] Mechanical parts design
+- [x] Maintenance plans
+- [x] Dynamical simulations
 
 ---
