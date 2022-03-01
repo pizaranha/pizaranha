@@ -40,6 +40,7 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 | [carbon.now](https://carbon.now.sh)      | Create images of your source code                    | 👨‍🏫 |
 | [bundlephobia](https://bundlephobia.com) | find the cost of adding a npm package to your bundle | 👨‍🏫 |
 | [badgen](https://badgen.net/)            | Fast badge generating service                        | 👨‍🏫 |
+| [roadmap.sh](https://roadmap.sh/)        | Development roadmaps for free                        | 👨‍🏫 |
 
 ---
 
@@ -146,3 +147,7 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 - [x] Dynamical simulations
 
 ---
+
+### My 2 cents to help
+
+> [Compatible text background gooey effect](https://codepen.io/pizaranha/pen/NWwEXaV)
