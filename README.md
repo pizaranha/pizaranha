@@ -15,6 +15,7 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 | Site                            | Description             | Tech  |
 | -------------                   |:-------------           | :-----:|
 | [clubz.co](https://clubz.co)    | Community activator     | ![](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)|
+| [ayuda.winsoftware.com.co](https://ayuda.winsoftware.com.co)    | Developer consultant     | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Jekyll](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=jekyll&logoColor=white) |
 
 ---
 
