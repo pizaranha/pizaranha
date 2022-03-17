@@ -97,6 +97,13 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 
 ### This is my certified learning path
 
+#### 2022.03 / Basic Programming by [Freddy Vega](https://github.com/freddier)
+
+- [x] Programming environments exploration
+- [x] HTML, CSS and Javascript fundamentals
+- [x] Functions, events and objects
+- [x] Algorithm Design
+
 #### 2022.02 / Basic Computing by [Ricardo Celis](https://twitter.com/celismx)
 
 - [x] Basics of security
