@@ -103,7 +103,7 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 
 #### 2022.03 / Basic Programming by [Freddy Vega](https://github.com/freddier)
 
-- [x] Programming environments exploration
+- [x] &nbsp;Programming environments exploration
 - [x] HTML, CSS and Javascript fundamentals
 - [x] Functions, events and objects
 - [x] Algorithm Design
