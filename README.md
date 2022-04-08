@@ -1,4 +1,4 @@
-<style>
+<styles>
 .markdown-body .task-list-item {
   list-style-type: none;
 }
@@ -27,7 +27,7 @@
 .markdown-body .contains-task-list:dir(rtl) .task-list-item-checkbox {
   margin: 0 -1.6em .25em .2em;
 }
-</style>
+</styles>
 
 ### Hi there 👋
 
