@@ -1,3 +1,34 @@
+<style>
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item label {
+  font-weight: 400;
+}
+
+.markdown-body .task-list-item.enabled label {
+  cursor: pointer;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item .handle {
+  display: none;
+}
+
+.markdown-body .task-list-item-checkbox {
+  margin: 0 .2em .25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body .contains-task-list:dir(rtl) .task-list-item-checkbox {
+  margin: 0 -1.6em .25em .2em;
+}
+</style>
+
 ### Hi there 👋
 
 I am Pizaranha, a family guy who enjoy making great things that helps people. When I was born **All Night Long (All Night)** was in the Top #5 songs in the USA, you can imagine how much maturity 😋🦖. BTW, here you will find some clues to know more about me 👇.
