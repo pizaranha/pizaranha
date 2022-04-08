@@ -104,59 +104,59 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 #### 2022.03 / Basic Programming by [Freddy Vega](https://github.com/freddier)
 
 - [x] &nbsp;Programming environments exploration
-- [x] HTML, CSS and Javascript fundamentals
-- [x] Functions, events and objects
-- [x] Algorithm Design
+- [x] &nbsp;HTML, CSS and Javascript fundamentals
+- [x] &nbsp;Functions, events and objects
+- [x] &nbsp;Algorithm Design
 
 #### 2022.02 / Basic Computing by [Ricardo Celis](https://twitter.com/celismx)
 
-- [x] Basics of security
-- [x] Windows 10
-- [x] Computer basics
-- [x] Operating systems
+- [x] &nbsp;Basics of security
+- [x] &nbsp;Windows 10
+- [x] &nbsp;Computer basics
+- [x] &nbsp;Operating systems
 
 #### 2022.02 / Strategies to Learn Online Effectively by [Anahí Salgado](https://twitter.com/anncode)
 
-- [x] Study notes techniques
-- [x] Types of learning
-- [x] Effective study habits
-- [x] Types of students
+- [x] &nbsp;Study notes techniques
+- [x] &nbsp;Types of learning
+- [x] &nbsp;Effective study habits
+- [x] &nbsp;Types of students
      
 #### 2022.02 / AWS Cloud fundamentals by [Mauro Parra Miranda](https://github.com/mauropm)
 
-- [x] Identify services for specific infrastructure needs
-- [x] Use AWS Database Migration Service
-- [x] Migrate your web applications to the Amazon cloud
+- [x] &nbsp;Identify services for specific infrastructure needs
+- [x] &nbsp;Use AWS Database Migration Service
+- [x] &nbsp;Migrate your web applications to the Amazon cloud
 
 #### 2022.02 / Effective Time Management by [Beatriz Ibañez](https://twitter.com/beatrixip)
 
-- [x] Time management concepts
-- [x] Time management techniques
-- [x] Time management strategies
-- [x] Tasks prioritizations
+- [x] &nbsp;Time management concepts
+- [x] &nbsp;Time management techniques
+- [x] &nbsp;Time management strategies
+- [x] &nbsp;Tasks prioritizations
 
 #### 2022.02 / Personal Finances by [Juan Camilo González](https://twitter.com/FiguroLatam)
 
-- [x] Define the financial plan to follow
-- [x] Build your dashboard
-- [x] Keep track of my accounts
-- [x] Set financial goals
+- [x] &nbsp;Define the financial plan to follow
+- [x] &nbsp;Build your dashboard
+- [x] &nbsp;Keep track of my accounts
+- [x] &nbsp;Set financial goals
 
 #### 2016.11 / Mobile App Development Basics
 
-- [x] Android apps with Kotlin (Android Studio)
-- [x] App development with C# (Xamarin)
-- [x] Hybrid mobile app development with Ionic
-- [x] PWA development with Angular 2
-- [x] iOS apps with Swift (Xcode)
+- [x] &nbsp;Android apps with Kotlin (Android Studio)
+- [x] &nbsp;App development with C# (Xamarin)
+- [x] &nbsp;Hybrid mobile app development with Ionic
+- [x] &nbsp;PWA development with Angular 2
+- [x] &nbsp;iOS apps with Swift (Xcode)
 
 #### 2011.03 / Mechanical Engineer by [UdeA](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/pregrados/ingenieria-mecanica)
 
-- [x] Prototype Design
-- [x] Thermal systems design
-- [x] Mechanical parts design
-- [x] Maintenance plans
-- [x] Dynamical simulations
+- [x] &nbsp;Prototype Design
+- [x] &nbsp;Thermal systems design
+- [x] &nbsp;Mechanical parts design
+- [x] &nbsp;Maintenance plans
+- [x] &nbsp;Dynamical simulations
 
 ---
 
