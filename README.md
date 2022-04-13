@@ -3,7 +3,7 @@
 I am Pizaranha, a family guy who enjoy making great things that helps people. When I was born **All Night Long (All Night)** was in the Top #5 songs in the USA, you can imagine how much maturity 😋🦖. BTW, here you will find some clues to know more about me 👇.
 
 - 🔭 I’m currently working on clubz.co
-- 🌱 I’m currently learning Personal Finances 
+- 🌱 I’m currently learning Git and GitHub Professional Course 
 - 👯 I’m looking to help communities to be active
 - 💬 Ask me about how to build a great startup (we will be both with the same question)
 - ⚡ Fun fact: you will laugh with the origin of my nickname.
@@ -100,6 +100,13 @@ I am Pizaranha, a family guy who enjoy making great things that helps people. Wh
 ---
 
 ### This is my certified learning path
+
+#### 2022.04 / Git and GitHub Professional Course by [Freddy Vega](https://github.com/freddier)
+
+- [x] &nbsp;Version Control   with Git
+- [x] &nbsp;Work Collaboratively
+- [x] &nbsp;GitHub Pages
+- [x] &nbsp;Git installation
 
 #### 2022.03 / Basic Programming by [Freddy Vega](https://github.com/freddier)
 
